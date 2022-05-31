@@ -1,0 +1,19 @@
+add
+Ivan
+1
+-24
+1
+afsgsd
+
+AIR
+3
+1
+2
+show
+print_ascending
+show
+remove_head
+remove_by_id 8
+max_by_description
+save
+help
